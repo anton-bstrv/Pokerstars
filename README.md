@@ -27,4 +27,5 @@ _Антон_ - процесс ставок
 
 **Игровое поле**
 
-![карты](https://github.com/anton-bstrv/Pokerstars/blob/main/%D0%B7%D0%B0%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D0%B9.jpg)
+![закрытые карты](https://github.com/anton-bstrv/Pokerstars/blob/main/%D0%B7%D0%B0%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D0%B9.jpg)
+![открытые карты](https://github.com/anton-bstrv/Pokerstars/blob/main/%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D0%B9.jpg)
