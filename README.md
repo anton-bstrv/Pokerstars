@@ -27,4 +27,4 @@ _Антон_ - процесс ставок
 
 **Игровое поле**
 
-![карты](https://github.com/FloatFoo/Pokerstars/blob/main/data/1920px-Svg-cards-2.0.svg.png)
+![карты](https://github.com/anton-bstrv/Pokerstars/blob/main/%D0%B7%D0%B0%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D0%B9.jpg)
